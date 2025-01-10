@@ -152,7 +152,7 @@ main{
 /*resume-section-styles*/
 
 .resume-column-title{
-  font-size: 30px;
+  font-size: 30px; 
   font-weight: bold;
   color: #474747;
   display: flex;
